@@ -1,8 +1,8 @@
-- Olá, sou @alanleonk
-- Um advogado formado desde 2008
-- Em busca de transição na carreira
-- Seja bem-vindo ao meu GITHUB
-- Aprecie "sem" moderação! 
+- olá, sou @alanleonk
+- um advogado formado desde 2008
+- em busca de transição na carreira
+- seja bem-vindo ao meu GITHUB
+- aprecie "sem" moderação! 
 
 <!---
 alanleonk/alanleonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
